@@ -74,4 +74,5 @@ ylabel("Amplitude");
 ![WhatsApp Image 2025-11-09 at 17 52 26_95ac8bfd](https://github.com/user-attachments/assets/47b2a0aa-0d06-458c-aa9d-529e5b1d9975)
 
 ## RESULT: 
+Thus,Linear and Circular Convolution for two given sequence using SCILAB was performed successfully.
 
